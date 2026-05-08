@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605081848167LM22L</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508184816MKSO2J</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿VIAJAMOS?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>LA VUELTA AL MUNDO EN 10 CIFRAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª Sabina Bermúdez Jiménez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El objetivo será elaborar un video explicando algunas desigualdades entre países del mundo. Para ello, el alumnado investigará los sobre los Objetivos de Sostenible, trabajará y operará con números de hasta 10 cifras, entre otras actividades y retos. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778253839004</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>00edf954-c20b-4de8-880c-5d033c795d85</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>EL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>00edf954-c20b-4de8-880c-5d033c795d85</odePageId>
+      <odeBlockId>block-1778254117604-ze61s9bim</odeBlockId>
+      <blockName>LA VUELTA AL MUNDO EN 10 CIFRAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>00edf954-c20b-4de8-880c-5d033c795d85</odePageId>
+          <odeBlockId>block-1778254117604-ze61s9bim</odeBlockId>
+          <odeIdeviceId>idevice-1778254117600-4u196xq1o</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778254117600-4u196xq1o" title="" href="{{context_path}}/content/resources/La-vuelta-al-mundo-mapa-monumentos-3-1296x658.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/La-vuelta-al-mundo-mapa-monumentos-3-1296x658.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778254117600-4u196xq1o","img_0":{"img":"{{context_path}}/content/resources/La-vuelta-al-mundo-mapa-monumentos-3-1296x658.jpg","thumbnail":"{{context_path}}/content/resources/La-vuelta-al-mundo-mapa-monumentos-3-1296x658.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>00edf954-c20b-4de8-880c-5d033c795d85</odePageId>
+      <odeBlockId>block-1778254201981-vhv23v2j4</odeBlockId>
+      <blockName>Nos convertimos en aventureros y aventureras.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>00edf954-c20b-4de8-880c-5d033c795d85</odePageId>
+          <odeBlockId>block-1778254201981-vhv23v2j4</odeBlockId>
+          <odeIdeviceId>idevice-1778254201980-wyrbofz5q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>CENTRO DE INTERÉS/TEMÁTICA </strong><br />Investigar las diferencias y desigualdades entre países para tomar consciencia y tener actitud más crítica con éstas. </p>
+<p><strong>NIVEL EDUCATIVO</strong><br />5º de Educación Primaria (mi alumnado es de 2º de ESO pero como es alumnado NEE con adaptación curricular significativa, me centraré en sus niveles de competencia curriculares, que es 5º)</p>
+<p><strong>TEMPORALIZACIÓN</strong><br />15 días aproximadamente (que serán unas 4-6 sesiones de PT)</p>
+<p><strong>MATERIA/S IMPLICADAS</strong><br />Matemáticas y Ciencias Sociales. </p>
+<p><strong>IDIOMA</strong><br />Español. </p>
+<p><strong>DESCRIPCIÓN GENERAL DEL OBJETIVO DE APRENDIZAJE POR PARTE DEL ALUMNADO </strong><br />El objetivo será elaborar un video explicando algunas desigualdades entre países del mundo. Para ello, investigará los sobre los Objetivos de Sostenible, trabajará y operará con números de hasta 10 cifras, entre otras actividades y retos. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778254201980-wyrbofz5q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>CENTRO DE INTERÉS/TEMÁTICA </strong><br />Investigar las diferencias y desigualdades entre países para tomar consciencia y tener actitud más crítica con éstas. </p>\n<p><strong>NIVEL EDUCATIVO</strong><br />5º de Educación Primaria (mi alumnado es de 2º de ESO pero como es alumnado NEE con adaptación curricular significativa, me centraré en sus niveles de competencia curriculares, que es 5º)</p>\n<p><strong>TEMPORALIZACIÓN</strong><br />15 días aproximadamente (que serán unas 4-6 sesiones de PT)</p>\n<p><strong>MATERIA/S IMPLICADAS</strong><br />Matemáticas y Ciencias Sociales. </p>\n<p><strong>IDIOMA</strong><br />Español. </p>\n<p><strong>DESCRIPCIÓN GENERAL DEL OBJETIVO DE APRENDIZAJE POR PARTE DEL ALUMNADO </strong><br />El objetivo será elaborar un video explicando algunas desigualdades entre países del mundo. Para ello, investigará los sobre los Objetivos de Sostenible, trabajará y operará con números de hasta 10 cifras, entre otras actividades y retos. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778253897352-728g7kw61</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778253897352-728g7kw61</odePageId>
+      <odeBlockId>block-1778254799616-ekc34lus4</odeBlockId>
+      <blockName>Recuerda: ¡nos ciberprotegemos!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778253897352-728g7kw61</odePageId>
+          <odeBlockId>block-1778254799616-ekc34lus4</odeBlockId>
+          <odeIdeviceId>idevice-1778254799614-d048k13oi</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778254799614-d048k13oi" title="" href="{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778254799614-d048k13oi","img_0":{"img":"{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.jpg","thumbnail":"{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778253928202-753l11fmi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778253928202-753l11fmi</odePageId>
+      <odeBlockId>block-1778255848677-0s4ri5tx2</odeBlockId>
+      <blockName>Tarea final.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778253928202-753l11fmi</odePageId>
+          <odeBlockId>block-1778255848677-0s4ri5tx2</odeBlockId>
+          <odeIdeviceId>idevice-1778255848675-hlk5ncjlq</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778255848675-hlk5ncjlq" title="" href="{{context_path}}/content/resources/múdez Jiménez.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/múdez Jiménez.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778255848675-hlk5ncjlq","img_0":{"img":"{{context_path}}/content/resources/múdez Jiménez.jpg","thumbnail":"{{context_path}}/content/resources/múdez Jiménez.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas que usaremos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas que usaremos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+      <odeBlockId>block-1778256057980-avq6hgrv8</odeBlockId>
+      <blockName>¿Qué más necesitaremos?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+          <odeBlockId>block-1778256057980-avq6hgrv8</odeBlockId>
+          <odeIdeviceId>idevice-1778256057978-quo0xnw28</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778256057978-quo0xnw28" title="" href="{{context_path}}/content/resources/Foto Google Calendar_visual completo.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Foto Google Calendar_visual completo.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256057978-quo0xnw28","img_1":{"img":"{{context_path}}/content/resources/Foto Google Calendar_visual completo.png","thumbnail":"{{context_path}}/content/resources/Foto Google Calendar_visual completo.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+      <odeBlockId>block-1778256103362-469l99rh0</odeBlockId>
+      <blockName>Google Calendar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+          <odeBlockId>block-1778256103362-469l99rh0</odeBlockId>
+          <odeIdeviceId>idevice-1778256103360-imjb8yvb3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Aventureros y aventureras!</p>
+<p>Estad bien atentos y atentas al calendario ya que iré colgando qué tareas haremos ese día y lo más importante... ¡cuáles deberían estar finalizadas!</p>
+<p>Os recuerdo "refrescar" siempre el calendario en la app para que os aparezcan  los nuevos eventos actualizados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256103360-imjb8yvb3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Aventureros y aventureras!</p>\n<p>Estad bien atentos y atentas al calendario ya que iré colgando qué tareas haremos ese día y lo más importante... ¡cuáles deberían estar finalizadas!</p>\n<p>Os recuerdo \"refrescar\" siempre el calendario en la app para que os aparezcan  los nuevos eventos actualizados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+      <odeBlockId>block-1778256394960-rvd786s36</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+          <odeBlockId>block-1778256394960-rvd786s36</odeBlockId>
+          <odeIdeviceId>idevice-1778256394959-8l1ufhfoc</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778256394959-8l1ufhfoc" title="" href="{{context_path}}/content/resources/google drive.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/google drive.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256394959-8l1ufhfoc","img_0":{"img":"{{context_path}}/content/resources/google drive.png","thumbnail":"{{context_path}}/content/resources/google drive.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+      <odeBlockId>block-1778256408730-bj29ow85d</odeBlockId>
+      <blockName>Google Drive</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778253945422-baa9kdk5a</odePageId>
+          <odeBlockId>block-1778256408730-bj29ow85d</odeBlockId>
+          <odeIdeviceId>idevice-1778256408729-gvwdlvxrn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Además de Google Calendar, usaremos google drive para tener todos los documentos organizados y guardados y así no perder nada :)!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256408729-gvwdlvxrn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Además de Google Calendar, usaremos google drive para tener todos los documentos organizados y guardados y así no perder nada :)!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778253971864-ls16bk9gl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización y Temporalización</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización y Temporalización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778253971864-ls16bk9gl</odePageId>
+      <odeBlockId>block-1778256710045-b9gl9nv15</odeBlockId>
+      <blockName>Tareas y actividades. ¿Cuánto tiempo tendré?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778253971864-ls16bk9gl</odePageId>
+          <odeBlockId>block-1778256710045-b9gl9nv15</odeBlockId>
+          <odeIdeviceId>idevice-1778256710043-62zgidya5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta linea del tiempo podréis ver qué haremos y cuánto tiempo tendremos para que os podáis organizar mejor. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256710043-62zgidya5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta linea del tiempo podréis ver qué haremos y cuánto tiempo tendremos para que os podáis organizar mejor. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778253971864-ls16bk9gl</odePageId>
+      <odeBlockId>block-1778256837702-mv660vh9m</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778253971864-ls16bk9gl</odePageId>
+          <odeBlockId>block-1778256837702-mv660vh9m</odeBlockId>
+          <odeIdeviceId>idevice-1778256837700-ug5na5vrz</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778256837700-ug5na5vrz" title="" href="{{context_path}}/content/resources/TEMA 2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/TEMA 2.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256837700-ug5na5vrz","img_0":{"img":"{{context_path}}/content/resources/TEMA 2.jpg","thumbnail":"{{context_path}}/content/resources/TEMA 2.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+      <odeBlockId>block-1778256912843-47jyd52fm</odeBlockId>
+      <blockName>DIANA DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+          <odeBlockId>block-1778256912843-47jyd52fm</odeBlockId>
+          <odeIdeviceId>idevice-1778256912841-stud4b6bo</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778256912841-stud4b6bo" title="" href="{{context_path}}/content/resources/diana.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/diana.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256912841-stud4b6bo","img_0":{"img":"{{context_path}}/content/resources/diana.png","thumbnail":"{{context_path}}/content/resources/diana.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+      <odeBlockId>block-1778257084296-lwmuf9cbc</odeBlockId>
+      <blockName>¿Cómo rellenamos la diana de evaluación?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+          <odeBlockId>block-1778257084296-lwmuf9cbc</odeBlockId>
+          <odeIdeviceId>idevice-1778257084295-pz0dghnvz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tras realizar el producto final, rellenaréis una diana de autoevaluación sobre los aspectos más relevantes que valoremos en este proyecto. </p>
+<p>Atendiendo a los elementos puestos, tendréis que colorear de 1 a 5 “quesitos”, siendo 1 la menor puntuación (poco) y 5 la máxima (excelente).</p>
+<p>Recuerda... ¡lo podemos hacer todos y todas juntas si no sabes cómo!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778257084295-pz0dghnvz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tras realizar el producto final, rellenaréis una diana de autoevaluación sobre los aspectos más relevantes que valoremos en este proyecto. </p>\n<p>Atendiendo a los elementos puestos, tendréis que colorear de 1 a 5 “quesitos”, siendo 1 la menor puntuación (poco) y 5 la máxima (excelente).</p>\n<p>Recuerda... ¡lo podemos hacer todos y todas juntas si no sabes cómo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+      <odeBlockId>block-1778257725256-vi5ybsop6</odeBlockId>
+      <blockName>Hoja de ruta</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+          <odeBlockId>block-1778257725256-vi5ybsop6</odeBlockId>
+          <odeIdeviceId>idevice-1778257725255-ewo96i3wc</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778257725255-ewo96i3wc" title="" href="{{context_path}}/content/resources/autoevaluacion.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/autoevaluacion.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778257725255-ewo96i3wc","img_0":{"img":"{{context_path}}/content/resources/autoevaluacion.png","thumbnail":"{{context_path}}/content/resources/autoevaluacion.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+      <odeBlockId>block-1778257766569-554gdbzik</odeBlockId>
+      <blockName>¿Qué hacemos con la hoja de ruta?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778254013362-85rjvaqb5</odePageId>
+          <odeBlockId>block-1778257766569-554gdbzik</odeBlockId>
+          <odeIdeviceId>idevice-1778257766567-c6mc552zf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este será como nuestro diario de aprendizaje. Es muy sencillo y pretende ayudaros a hacer vuestro propio seguimiento de las tareas y actividades del proyecto para que seáis conscientes de lo que lleváis hecho y lo que os queda... y ¡podamos dar la vuelta al mundo juntos/as!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778257766567-c6mc552zf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este será como nuestro diario de aprendizaje. Es muy sencillo y pretende ayudaros a hacer vuestro propio seguimiento de las tareas y actividades del proyecto para que seáis conscientes de lo que lleváis hecho y lo que os queda... y ¡podamos dar la vuelta al mundo juntos/as!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778254021014-ka0thrv79</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778254021014-ka0thrv79</odePageId>
+      <odeBlockId>block-1778258005577-jfjv6n6dy</odeBlockId>
+      <blockName>En cada tarea y actividad, evaluaremos...</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778254021014-ka0thrv79</odePageId>
+          <odeBlockId>block-1778258005577-jfjv6n6dy</odeBlockId>
+          <odeIdeviceId>idevice-1778258005576-14ox46o1l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.045%;">
+<tbody>
+<tr>
+<td style="width: 19.9686%; text-align: center;"><strong>TAREA </strong></td>
+<td style="width: 19.9686%; text-align: center;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 19.9686%; text-align: center;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.9686%; text-align: center;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 19.9686%; text-align: center;"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9686%;">Volviendo atrás (repaso)</td>
+<td style="width: 19.9686%;">1.1. Reformular, de forma verbal y gráfica, problemas de la vida cotidiana, comprendiendo las preguntas planteadas a través de diferentes estrategias o herramientas.</td>
+<td style="width: 19.9686%;">en pequeño grupo</td>
+<td style="width: 19.9686%;">1h</td>
+<td style="width: 19.9686%;">Rralización de una ficha donde rellenarán cómo será el video: portada con el ODS elegido, explicación del ODS y búsqueda de datos relacionados con el contenido matemático trabajado. </td>
+</tr>
+<tr>
+<td style="width: 19.9686%;">Viajamos con un Breakout</td>
+<td style="width: 19.9686%;">8.1. Colaborar activa y respetuosamente en el trabajo en equipo comunicándose adecuadamente, respetando la diversidad del grupo y estableciendo relaciones saludables basadas en la tolerancia, la igualdad y la resolución pacífica de conflictos.</td>
+<td style="width: 19.9686%;">en pequeño grupo</td>
+<td style="width: 19.9686%;">1,5h</td>
+<td style="width: 19.9686%;">1,5h</td>
+</tr>
+<tr>
+<td style="width: 19.9686%;">Dominó en 7 cifras</td>
+<td style="width: 19.9686%;">5.2.Utilizar las conexiones entre las matemáticas, otras áreas y la vida cotidiana para resolver problemas en contextos no matemáticos.</td>
+<td style="width: 19.9686%;">individual, pareja o en pequeño grupo</td>
+<td style="width: 19.9686%;">15 mins.</td>
+<td style="width: 19.9686%;">jugar a un dominó. </td>
+</tr>
+<tr>
+<td style="width: 19.9686%;">Creación del video</td>
+<td style="width: 19.9686%;">8.1. Colaborar activa y respetuosamente en el trabajo en equipo comunicándose adecuadamente, respetando la diversidad del grupo y estableciendo relaciones saludables basadas en la tolerancia, la igualdad y la resolución pacífica de conflictos.</td>
+<td style="width: 19.9686%;">en pequeño grupo</td>
+<td style="width: 19.9686%;">3h</td>
+<td style="width: 19.9686%;">elaboración de un video que es el producto final</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778258005576-14ox46o1l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.045%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9686%; text-align: center;\"><strong>TAREA </strong></td>\n<td style=\"width: 19.9686%; text-align: center;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 19.9686%; text-align: center;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.9686%; text-align: center;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 19.9686%; text-align: center;\"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9686%;\">Volviendo atrás (repaso)</td>\n<td style=\"width: 19.9686%;\">1.1. Reformular, de forma verbal y gráfica, problemas de la vida cotidiana, comprendiendo las preguntas planteadas a través de diferentes estrategias o herramientas.</td>\n<td style=\"width: 19.9686%;\">en pequeño grupo</td>\n<td style=\"width: 19.9686%;\">1h</td>\n<td style=\"width: 19.9686%;\">Rralización de una ficha donde rellenarán cómo será el video: portada con el ODS elegido, explicación del ODS y búsqueda de datos relacionados con el contenido matemático trabajado. </td>\n</tr>\n<tr>\n<td style=\"width: 19.9686%;\">Viajamos con un Breakout</td>\n<td style=\"width: 19.9686%;\">8.1. Colaborar activa y respetuosamente en el trabajo en equipo comunicándose adecuadamente, respetando la diversidad del grupo y estableciendo relaciones saludables basadas en la tolerancia, la igualdad y la resolución pacífica de conflictos.</td>\n<td style=\"width: 19.9686%;\">en pequeño grupo</td>\n<td style=\"width: 19.9686%;\">1,5h</td>\n<td style=\"width: 19.9686%;\">1,5h</td>\n</tr>\n<tr>\n<td style=\"width: 19.9686%;\">Dominó en 7 cifras</td>\n<td style=\"width: 19.9686%;\">5.2.Utilizar las conexiones entre las matemáticas, otras áreas y la vida cotidiana para resolver problemas en contextos no matemáticos.</td>\n<td style=\"width: 19.9686%;\">individual, pareja o en pequeño grupo</td>\n<td style=\"width: 19.9686%;\">15 mins.</td>\n<td style=\"width: 19.9686%;\">jugar a un dominó. </td>\n</tr>\n<tr>\n<td style=\"width: 19.9686%;\">Creación del video</td>\n<td style=\"width: 19.9686%;\">8.1. Colaborar activa y respetuosamente en el trabajo en equipo comunicándose adecuadamente, respetando la diversidad del grupo y estableciendo relaciones saludables basadas en la tolerancia, la igualdad y la resolución pacífica de conflictos.</td>\n<td style=\"width: 19.9686%;\">en pequeño grupo</td>\n<td style=\"width: 19.9686%;\">3h</td>\n<td style=\"width: 19.9686%;\">elaboración de un video que es el producto final</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778257934401-g4ynomw4e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778257934401-g4ynomw4e</odePageId>
+      <odeBlockId>block-1778258377360-c1wa9splp</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778257934401-g4ynomw4e</odePageId>
+          <odeBlockId>block-1778258377360-c1wa9splp</odeBlockId>
+          <odeIdeviceId>idevice-1778258377359-hv4sun6na</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.045%;">
+<tbody>
+<tr>
+<td style="width: 49.9216%;">Título</td>
+<td style="width: 49.9216%;">Viajamos: la vuelta al mundo en 10 cifras.</td>
+</tr>
+<tr>
+<td style="width: 49.9216%;">Autor/a</td>
+<td style="width: 49.9216%;">Mª Sabina Bermúdez Jiménez</td>
+</tr>
+<tr>
+<td style="width: 49.9216%;">Descripción</td>
+<td style="width: 49.9216%;">Este recurso es la guía para que el alumnado conozca el proyecto y cómo hacerlo perteneciente a la asignatura de Matemáticas del Tercer Ciclo de Educación Primaria.</td>
+</tr>
+<tr>
+<td style="width: 49.9216%;">Licencia de uso</td>
+<td style="width: 49.9216%;" title=""><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778258377359-hv4sun6na","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.045%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9216%;\">Título</td>\n<td style=\"width: 49.9216%;\">Viajamos: la vuelta al mundo en 10 cifras.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9216%;\">Autor/a</td>\n<td style=\"width: 49.9216%;\">Mª Sabina Bermúdez Jiménez</td>\n</tr>\n<tr>\n<td style=\"width: 49.9216%;\">Descripción</td>\n<td style=\"width: 49.9216%;\">Este recurso es la guía para que el alumnado conozca el proyecto y cómo hacerlo perteneciente a la asignatura de Matemáticas del Tercer Ciclo de Educación Primaria.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9216%;\">Licencia de uso</td>\n<td style=\"width: 49.9216%;\" title=\"\"><a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\" rel=\"noopener\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
